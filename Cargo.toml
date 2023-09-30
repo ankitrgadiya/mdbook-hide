@@ -1,6 +1,6 @@
 [package]
 name = "mdbook-hide"
-version = "0.3.0"
+version = "0.4.0"
 edition = "2021"
 authors = ["Ankit R Gadiya <git@argp.in"]
 description = "A preprocessor for mdbook that adds support for hidden chapters"
@@ -14,7 +14,7 @@ repository = "https://github.com/ankitrgadiya/mdbook-hide"
 clap = "4.3.12"
 env_logger = "0.10.0"
 log = "0.4.19"
-mdbook = "0.4.34"
+mdbook = "0.4.35"
 regex = "1.9.1"
 semver = "1.0.17"
 serde_json = "1.0.100"
